@@ -89,12 +89,25 @@ hr {
   margin-top: 50px;
   margin-left: 150px;
   margin-right: auto;
-  height: 100px;
+  height: 50px;
 }
 
 .text-gray {
   color: rgb(12, 222, 222);
   justify-content: space-around;
+}
+
+.red {
+  color: red;
+  text-shadow: 0 0 10px rgb(236, 6, 6);
+  
+}
+
+.footer {
+  background-color: rgb(8, 8, 47);
+  text-align: center;
+  padding: 20px;
+  margin-top: 20px;
 }
 
 
